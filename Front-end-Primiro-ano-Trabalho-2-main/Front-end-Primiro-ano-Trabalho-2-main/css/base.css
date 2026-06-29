@@ -1,0 +1,27 @@
+html{
+    background-color: #e8f4f0;
+    font-family: 'Nunito', sans-serif;
+}
+
+
+p{
+    font-family: 'Nunito', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+    font-family: "Nunito", sans-serif;
+}
+
+a:hover{
+    background-color: grey;
+
+}
+
+
+
+footer{
+    font-family: "Nunito", sans-serif;
+}
